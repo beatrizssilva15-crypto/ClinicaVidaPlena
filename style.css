@@ -41,6 +41,110 @@
         text-align: center;
         padding: 24px 16px;
 }
+      /* Seletor de Classe */
+
+.serviço {
+
+     background-color:aquamarine;
+
+     border: 1px sienna;
+
+     border-radius: 8px;
+
+     padding: 16px;
+
+     margin-bottom: 16px;
+
+     text-align: center;
+
+}
+
+.foto-clinica{
+
+    background-color:aquamarine;
+
+    background-size: cover;
+
+    background-position: center;
+
+    height: 160px;
+
+    border-radius: 4px;
+
+    margin-bottom: 12px;
+
+}
+
+.plano-saude {
+
+    padding: 12px;
+
+    border-radius: 4px;
+
+    font-weight: bold;
+
+    text-align: center;
+
+    margin-bottom: 12px;
+
+}
+
+.servico-essencial{
+
+    background-color: blueviolet;
+
+    border-left: 4px solid blueviolet; 
+
+}
+
+.servico-premium {
+
+    background-color:aquamarine;
+
+    color:blue;
+
+    border-left: 4px solid  bisque; 
+
+}
+
+/* Seletor de ID */
+
+#sobre #especialidades {
+
+    padding: 24px 0;
+
+}
+
+#serviços {
+
+    background-color:blueviolet;
+
+    border-radius: 8px;
+
+    padding: 24px;
+
+}
+
+#formulario-agendamento {
+    background-color:aqua;
+    padding: 24px;
+    border: 2px solid beige;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 24px auto;
+}
+
+
+
+
+   
+
+
+
+
+
+
+
      
 
   
