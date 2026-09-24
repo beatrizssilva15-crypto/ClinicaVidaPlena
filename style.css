@@ -1,0 +1,53 @@
+/* Seletor Universal */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+     /* Seletor de TAG */
+  body {
+    font-family: Verdana,Tahoma, sans-serif;
+    color:blueviolet;
+    line-height: 1.6;
+}
+  header {
+     background-color:aquamarine;
+     color:blueviolet;
+     padding: 32px 16px;
+     text-align: center;
+} 
+   nav {
+      background-color: black;
+      padding: 34;
+     }
+    nav ul {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+ }
+     nav a {
+         color:blueviolet;
+         font-weight: bold;
+ }
+       main {
+           max-width: 960px;
+           margin: 0 auto;
+           padding: 32px 16px;
+} 
+        footer {
+        background-color:aquamarine;
+        color:blueviolet;
+        text-align: center;
+        padding: 24px 16px;
+}
+     
+
+  
+   
+
+
+  
+
+    
+    
