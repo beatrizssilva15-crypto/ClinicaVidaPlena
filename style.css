@@ -18,7 +18,7 @@
 } 
    nav {
       background-color: black;
-      padding: 34;
+      padding: 34px;
      }
     nav ul {
         list-style: none;
@@ -47,7 +47,7 @@
 
      background-color:aquamarine;
 
-     border: 1px sienna;
+     border: 1px solid sienna;
 
      border-radius: 8px;
 
@@ -109,13 +109,13 @@
 
 /* Seletor de ID */
 
-#sobre #especialidades {
+#sobre, #especialidades {
 
     padding: 24px 0;
 
 }
 
-#serviços {
+#servicos {
 
     background-color:blueviolet;
 
@@ -132,7 +132,17 @@
     border-radius: 8px;
     max-width: 600px;
     margin: 24px auto;
-}
+} 
+   /* Seletor compartilhado */
+   input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+} 
+   
+   
+
 
 
 
